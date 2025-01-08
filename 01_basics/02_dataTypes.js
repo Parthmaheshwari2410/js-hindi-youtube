@@ -6,15 +6,15 @@ console.log(3
     +
      3) // code readability should be high
 
-console.log("Hitesh")
+console.log("parth")
 
 
-let name = "hitesh"
+let name = "parth"
 let age = 18
 let isLoggedIn = false
 let state;
 
-// number => 2 to power 53
+// number => 2to power 53
 // bigint
 // string => ""
 // boolean => true/false
